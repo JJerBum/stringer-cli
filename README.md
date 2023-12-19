@@ -11,7 +11,7 @@ Stringer-cli provides
 // 예정 중
 ```
 
-# Commands
+# Supported Commands
 - Reverse string 
 ```go
 stringer-cli reverse (want)
