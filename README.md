@@ -1,5 +1,4 @@
-![stringer-cli](docs/images/stringer-cli.svg)
-
+![stringer-cli](docs/images/stringer-cli.png)
 # Overview
 Stringer-cli는 문자열을 제어 및 분석할 수 있는 CLI(Command Line Interface) 입니다.
 
