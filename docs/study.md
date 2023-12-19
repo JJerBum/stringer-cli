@@ -25,3 +25,7 @@ rootCommand의 Version 요소를 지정해 줄 경우
 --version 치면 해당 CLI의 버전이 출력된다.
 
 로컬 flag 같은 경우 해당 플래그의 command.Flags.BoolVarP(p, name, shorthead, value, usage)함수를 통해서 사용할 수 있다.
+
+# 이번에 코드 작성하면서 인지하게 된 영단어
+- plural: 복수의, 복수형의, 복수의
+- alias: ~라는 가명으로 알려진, 가명, 별칭
